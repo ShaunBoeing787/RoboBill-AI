@@ -7,7 +7,7 @@ Description of the app ...
 
 ## Demo App
 
-[![Streamlit App](https://robobill-ai-ek6wcvd5s5oqsmcnfgx3uh.streamlit.app/)
+(https://robobill-ai-ek6wcvd5s5oqsmcnfgx3uh.streamlit.app/)
 
 ## GitHub Codespaces
 
